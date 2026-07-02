@@ -1,4 +1,6 @@
-﻿public abstract class Account {
+package se.lexicon;
+
+public abstract class Account {
     private final String holder;
     private double balance;
 

@@ -1,4 +1,6 @@
-﻿public class CheckingAccount extends Account {
+package se.lexicon;
+
+public class CheckingAccount extends Account {
     private final double monthlyFee;
 
     public CheckingAccount(String holder, double balance, double monthlyFee) {

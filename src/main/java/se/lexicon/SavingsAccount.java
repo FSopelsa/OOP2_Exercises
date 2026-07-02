@@ -1,4 +1,6 @@
-﻿public class SavingsAccount extends Account {
+package se.lexicon;
+
+public class SavingsAccount extends Account {
     private final double interestRate;
 
     public SavingsAccount(String holder, double balance, double interestRate) {

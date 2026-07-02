@@ -1,4 +1,6 @@
-﻿import java.util.ArrayList;
+package se.lexicon;
+
+import java.util.ArrayList;
 import java.util.List;
 
 public class Bank {

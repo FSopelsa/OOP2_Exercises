@@ -1,4 +1,7 @@
-﻿public class App {
+package se.lexicon;
+
+
+public class App {
     public static void main(String[] args) {
         Bank bank = new Bank("Lexicon Bank");
 

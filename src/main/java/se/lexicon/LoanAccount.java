@@ -1,4 +1,6 @@
-﻿public class LoanAccount extends Account {
+package se.lexicon;
+
+public class LoanAccount extends Account {
     private final double loanRate;
 
     public LoanAccount(String holder, double balance, double loanRate) {
